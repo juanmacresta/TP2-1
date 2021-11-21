@@ -1,0 +1,18 @@
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Entities\obj\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Entities\obj\Debug\Business.Entities.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Entities\bin\Debug\Business.Entities.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Entities\bin\Debug\Business.Entities.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Entities\obj\Debug\Business.Entities.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Entities\obj\Debug\Business.Entities.pdb

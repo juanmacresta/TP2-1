@@ -1,0 +1,51 @@
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Logic\obj\Debug\Business.Logic.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\obj\Debug\Business.Logic.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\obj\Debug\Business.Logic.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\obj\Debug\Business.Logic.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\obj\Debug\Business.Logic.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\obj\Debug\Business.Logic.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\obj\Debug\Business.Logic.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Business.Logic\obj\Debug\Business.Logic.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\bin\Debug\Business.Logic.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\bin\Debug\Business.Logic.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\bin\Debug\Business.Entities.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\bin\Debug\Data.Database.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\bin\Debug\Business.Entities.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\bin\Debug\Data.Database.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\obj\Debug\Business.Logic.csprojAssemblyReference.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\obj\Debug\Business.Logic.csproj.CopyComplete
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\obj\Debug\Business.Logic.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\obj\Debug\Business.Logic.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Business.Logic\bin\Debug\Data.Database.dll.config

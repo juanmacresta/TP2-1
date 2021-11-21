@@ -1,0 +1,42 @@
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\obj\Debug\UI.Consola.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\obj\Debug\UI.Consola.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\obj\Debug\UI.Consola.csprojAssemblyReference.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\obj\Debug\UI.Consola.csproj.CoreCompileInputs.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\obj\Debug\UI.Consola.exe
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\obj\Debug\UI.Consola.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\bin\Debug\UI.Consola.exe.config
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\bin\Debug\UI.Consola.exe
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\bin\Debug\UI.Consola.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\bin\Debug\Business.Entities.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\bin\Debug\Business.Logic.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\bin\Debug\Data.Database.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\bin\Debug\Business.Entities.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\bin\Debug\Business.Logic.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\bin\Debug\Data.Database.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Consola\obj\Debug\UI.Consola.csproj.CopyComplete

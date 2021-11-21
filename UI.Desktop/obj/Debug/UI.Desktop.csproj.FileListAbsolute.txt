@@ -1,0 +1,300 @@
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP2-\TP2L02\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.MateriaDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.Cursos.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Cursos.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.MateriaDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Mostrar.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\UI.Desktop.exe
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\UI.Desktop.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Entities.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Logic.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Data.Database.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Entities.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Logic.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Data.Database.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csprojAssemblyReference.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Cursos.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.MateriaDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Mostrar.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.exe
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.formLogin.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Planes.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.AlumnosInscripciones.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.AlumnosInscripcionesDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.DocenteCurso.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.DocenteCursoDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\RdlCompile.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\RdlCompile.compiled
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\EnvDTE.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\stdole.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.MSXML.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.frm_Informes.ReporteCurso.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.frm_Informes.ReportePlan.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.PlanDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.DocenteCursosDesktop.resources
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Data.Database.dll.config
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\UI.Desktop.exe
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\UI.Desktop.pdb
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Entities.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Logic.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Common.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.Design.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.SqlServer.Types.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Data.Database.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\EnvDTE.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\stdole.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Microsoft.MSXML.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Entities.pdb
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Business.Logic.pdb
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Data.Database.pdb
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\Data.Database.dll.config
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.AssemblyReference.cache
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.AlumnosInscripciones.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.AlumnosInscripcionesDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.ComisionDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Comisiones.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.CursoDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Cursos.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.DocenteCurso.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.DocenteCursoDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.DocenteCursosDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.EspecialidadDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Especialidades.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.formLogin.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.frm_Informes.ReporteCurso.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.frm_Informes.ReportePlan.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.MateriaDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Materias.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Mostrar.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.PersonaDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Personas.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.PlanDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Planes.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.cache
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CoreCompileInputs.cache
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.csproj.CopyComplete
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.exe
+d:\Datos User\Escritorio\FAC 2021\.NET\TP2 final\TP2 - parte 3 - copia\UI.Desktop\obj\Debug\UI.Desktop.pdb

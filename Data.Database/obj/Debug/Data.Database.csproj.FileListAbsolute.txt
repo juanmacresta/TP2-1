@@ -1,0 +1,37 @@
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP2-\TP2L03\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2L03\Data.Database\obj\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Data.Database\bin\Debug\Business.Entities.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Data.Database\bin\Debug\Business.Entities.pdb
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\Sabrina\Desktop\TP 2\TP2 - parte 3\Data.Database\obj\Debug\Data.Database.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\bin\Debug\Data.Database.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\bin\Debug\Data.Database.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\bin\Debug\Business.Entities.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\bin\Debug\Business.Entities.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\obj\Debug\Data.Database.csprojAssemblyReference.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\obj\Debug\Data.Database.csproj.CoreCompileInputs.cache
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\obj\Debug\Data.Database.csproj.CopyComplete
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\obj\Debug\Data.Database.dll
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\obj\Debug\Data.Database.pdb
+D:\Datos User\Facultad nacho\Net\TP2-Sabrina\TP2 - parte 3 - copia\Data.Database\bin\Debug\Data.Database.dll.config
