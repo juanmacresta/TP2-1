@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7463FD18-0BEB-40DE-8B8D-12B2E61F623E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UI.Desktop</RootNamespace>
+    <AssemblyName>UI.Desktop</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlumnosInscripciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlumnosInscripciones.Designer.cs">
+      <DependentUpon>AlumnosInscripciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlumnosInscripcionesDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlumnosInscripcionesDesktop.Designer.cs">
+      <DependentUpon>AlumnosInscripcionesDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationForm.Designer.cs">
+      <DependentUpon>ApplicationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComisionDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComisionDesktop.Designer.cs">
+      <DependentUpon>ComisionDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comisiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comisiones.Designer.cs">
+      <DependentUpon>Comisiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CursoDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CursoDesktop.Designer.cs">
+      <DependentUpon>CursoDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cursos.Designer.cs">
+      <DependentUpon>Cursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DocenteCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocenteCurso.Designer.cs">
+      <DependentUpon>DocenteCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocenteCursoDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocenteCursoDesktop.Designer.cs">
+      <DependentUpon>DocenteCursoDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocenteCursosDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DocenteCursosDesktop.Designer.cs">
+      <DependentUpon>DocenteCursosDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EspecialidadDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EspecialidadDesktop.Designer.cs">
+      <DependentUpon>EspecialidadDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Especialidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Especialidades.Designer.cs">
+      <DependentUpon>Especialidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlanDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlanDesktop.Designer.cs">
+      <DependentUpon>PlanDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Informes\ReportePlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Informes\ReportePlan.Designer.cs">
+      <DependentUpon>ReportePlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Informes\ReporteCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Informes\ReporteCurso.Designer.cs">
+      <DependentUpon>ReporteCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Planes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Planes.Designer.cs">
+      <DependentUpon>Planes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formLogin.Designer.cs">
+      <DependentUpon>formLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MateriaDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaDesktop.Designer.cs">
+      <DependentUpon>MateriaDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Materias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Materias.Designer.cs">
+      <DependentUpon>Materias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mostrar.Designer.cs">
+      <DependentUpon>Mostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonaDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonaDesktop.Designer.cs">
+      <DependentUpon>PersonaDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personas.Designer.cs">
+      <DependentUpon>Personas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="tp2_netDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tp2_netDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tp2_netDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tp2_netDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tp2_netDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tp2_netDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tp2_netDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tp2_netDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tp2_netDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="tp2_netDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tp2_netDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UsuarioDesktop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsuarioDesktop.Designer.cs">
+      <DependentUpon>UsuarioDesktop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AlumnosInscripciones.resx">
+      <DependentUpon>AlumnosInscripciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlumnosInscripcionesDesktop.resx">
+      <DependentUpon>AlumnosInscripcionesDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApplicationForm.resx">
+      <DependentUpon>ApplicationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComisionDesktop.resx">
+      <DependentUpon>ComisionDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comisiones.resx">
+      <DependentUpon>Comisiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CursoDesktop.resx">
+      <DependentUpon>CursoDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cursos.resx">
+      <DependentUpon>Cursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocenteCurso.resx">
+      <DependentUpon>DocenteCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocenteCursoDesktop.resx">
+      <DependentUpon>DocenteCursoDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocenteCursosDesktop.resx">
+      <DependentUpon>DocenteCursosDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EspecialidadDesktop.resx">
+      <DependentUpon>EspecialidadDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Especialidades.resx">
+      <DependentUpon>Especialidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formLogin.resx">
+      <DependentUpon>formLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Informes\ReporteCurso.resx">
+      <DependentUpon>ReporteCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Informes\ReportePlan.resx">
+      <DependentUpon>ReportePlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informe\ReportePlanes.rdlc" />
+    <EmbeddedResource Include="Informe\ReporteCursos.rdlc" />
+    <EmbeddedResource Include="MateriaDesktop.resx">
+      <DependentUpon>MateriaDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Materias.resx">
+      <DependentUpon>Materias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mostrar.resx">
+      <DependentUpon>Mostrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonaDesktop.resx">
+      <DependentUpon>PersonaDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personas.resx">
+      <DependentUpon>Personas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlanDesktop.resx">
+      <DependentUpon>PlanDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Planes.resx">
+      <DependentUpon>Planes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsuarioDesktop.resx">
+      <DependentUpon>UsuarioDesktop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Business.Entities.Curso.datasource" />
+    <None Include="Properties\DataSources\Business.Logic.CursoLogic.datasource" />
+    <None Include="Properties\DataSources\UI.Desktop.frm_Informes.ReportePlanes.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="tp2_netDataSet.xsc">
+      <DependentUpon>tp2_netDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet.xss">
+      <DependentUpon>tp2_netDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet1.xsc">
+      <DependentUpon>tp2_netDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet1.xss">
+      <DependentUpon>tp2_netDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet2.xsc">
+      <DependentUpon>tp2_netDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet2.xss">
+      <DependentUpon>tp2_netDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet3.xsc">
+      <DependentUpon>tp2_netDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet3.xss">
+      <DependentUpon>tp2_netDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet4.xsc">
+      <DependentUpon>tp2_netDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet4.xss">
+      <DependentUpon>tp2_netDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet5.xsc">
+      <DependentUpon>tp2_netDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet5.xss">
+      <DependentUpon>tp2_netDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet6.xsc">
+      <DependentUpon>tp2_netDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet6.xss">
+      <DependentUpon>tp2_netDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet7.xsc">
+      <DependentUpon>tp2_netDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet7.xss">
+      <DependentUpon>tp2_netDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet8.xsc">
+      <DependentUpon>tp2_netDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet8.xss">
+      <DependentUpon>tp2_netDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet9.xsc">
+      <DependentUpon>tp2_netDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="tp2_netDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>tp2_netDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="tp2_netDataSet9.xss">
+      <DependentUpon>tp2_netDataSet9.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business.Entities\Business.Entities.csproj">
+      <Project>{f8ba48e6-18f3-42d3-8887-1c2dd3b8d5fa}</Project>
+      <Name>Business.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Business.Logic\Business.Logic.csproj">
+      <Project>{4f065c2a-5dfe-4bd9-94e0-c0e3f812ae18}</Project>
+      <Name>Business.Logic</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\utn_regional_rosario_200x200px.jpg" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
